@@ -1,0 +1,2 @@
+print('what is the difference between pull and fetch')
+#save always 
